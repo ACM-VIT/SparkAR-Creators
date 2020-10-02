@@ -72,8 +72,7 @@ git merge
 
 ---
 ## Authors
-https://avatars3.githubusercontent.com/u/43913734?s=50&u=904d4252de808002db7695fc3be7a26760001e6d&v=4
-**Authors:** <!-- [Elio](https://github.com/lopeselio), [Shovin](https://github.com/NIVOSH379), [Eesha](https://github.com/eeshashetty) .. --> 
+**Authors:** <!-- [Elio](https://github.com/lopeselio), [Shovin](https://github.com/NIVOSH379), [Eesha](https://github.com/eeshashetty) .. 
 <a href="https://github.com/lopeselio">
   <img src="https://avatars3.githubusercontent.com/u/43913734?s=50&u=904d4252de808002db7695fc3be7a26760001e6d&v=4">
 </a>
@@ -82,5 +81,5 @@ https://avatars3.githubusercontent.com/u/43913734?s=50&u=904d4252de808002db7695f
 </a>
 <a href="https://github.com/eeshashetty">
   <img src="https://avatars3.githubusercontent.com/u/46091397?s=50&u=76dbe2bc98de1034035827e11248a1f4999cbce7&v=4">
-</a>
+</a> --> 
 **Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
