@@ -96,19 +96,11 @@ git merge
 
 ---
 ## Authors
-**Authors:** <!-- [Elio](https://github.com/lopeselio), [Shovin](https://github.com/NIVOSH379), [Eesha](https://github.com/eeshashetty) .. 
-<a href="https://github.com/lopeselio">
-  <img src="https://avatars3.githubusercontent.com/u/43913734?s=50&u=904d4252de808002db7695fc3be7a26760001e6d&v=4">
-</a>
-<a href="https://github.com/NIVOSH379">
-  <img src="https://avatars2.githubusercontent.com/u/49613543?s=50&v=4">
-</a>
-<a href="https://github.com/eeshashetty">
-  <img src="https://avatars3.githubusercontent.com/u/46091397?s=50&u=76dbe2bc98de1034035827e11248a1f4999cbce7&v=4">
-</a> --> 
+**Authors:** 
+<!-- [Elio](https://github.com/lopeselio), [Shovin](https://github.com/NIVOSH379), [Eesha](https://github.com/eeshashetty) .. -->
+
 <a href="https://github.com/ACM-VIT/SparkAR-Creators/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/SparkAR-Creators" />
 </a>
-&nbsp
 
 **Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
