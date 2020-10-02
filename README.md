@@ -3,10 +3,10 @@
 <img src="https://raw.githubusercontent.com/Malika01/hacktoberfest-readme/master/Final.png">
 </p>
 
-<h2 align="center"> PROJECT TITLE </h2>
+<h2 align="center"> ACM Learn2Augment Mini-Hack Gravitas'20 </h2>
 
 <p align="center"> 
-Short description about the project.
+Registered participants from Learn2Augment will make PRs with their project submissions. All the PRs from the registered participants would be merged. See guidelines below to make your Pull Request. **Visit the 'L2A Mini-Hack' directory to know more about the hackathon submission**  
 </p>
 
 <p>
@@ -73,5 +73,5 @@ git merge
 ---
 ## Authors
 
-**Authors:** <!-- [author1's name](link to their github profile), [author2's name](link to their github profile) .. -->  
+**Authors:** <!-- [Elio](https://github.com/lopeselio), [Shovin](https://github.com/NIVOSH379), [Eesha](https://github.com/eeshashetty) .. -->  
 **Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
