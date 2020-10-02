@@ -6,9 +6,9 @@
 <h2 align="center"> ACM Learn2Augment Mini-Hack Gravitas'20 </h2>
 
 <p align="center"> 
-Registered participants from Learn2Augment will make PRs with their project submissions. All the PRs from the registered participants would be merged. See guidelines below to make your Pull Request.   
+Registered participants from Learn2Augment will make PRs with their project submissions. All the PRs from the registered participants would be merged. See steps below to make your Pull Request.   
+  <br><br> <b>Visit the <code>L2A Mini-Hack</code> directory to know more about the hackathon submission</b>
 </p>
-**Visit the 'L2A Mini-Hack' directory to know more about the hackathon submission**
 
 <h2 align="center"> SparkAR Open Repository </h2>
 
@@ -44,7 +44,6 @@ All other directories are open to contributions from all SparkAR creators. You a
 
 ---
 ## Submitting a Pull Request
-
  * Fork the repository by clicking the fork button on top right corner of the page
  * Clone the target repository. To clone, click on the clone button and copy the https address. Then run 
  <pre><code>git clone [HTTPS-ADDRESS]</code></pre>
@@ -58,8 +57,9 @@ All other directories are open to contributions from all SparkAR creators. You a
 <pre><code>git commit -m "your msg"</code></pre>
 * Push to remote. To do this, run 
 <pre><code>git push origin [YOUR-BRANCH-NAME]</code></pre>
-* Create a pull request. Go to the target repository and click on the "Compare & pull request" button. **Make sure your PR description mentions which issues you're solving.**
-<img src="https://drive.google.com/u/1/uc?id=1f9JKAR-kRvCRGxIs_SAvegaYDPx53T9G&export=download"></img>
+* Create a pull request. Go to the target repository and click on the "Compare & pull request" button. 
+  * For L2A participants - make sure your PR title follows the format **L2A Submission - (name)**
+  * For General PRs - PR title should be the filter you made
 * Wait for your request to be accepted. 
 
 ---
@@ -97,7 +97,7 @@ git merge
 ---
 ## Authors
 **Authors:** 
-<!-- [Elio](https://github.com/lopeselio), [Shovin](https://github.com/NIVOSH379), [Eesha](https://github.com/eeshashetty) .. -->
+[Elio](https://github.com/lopeselio), [Shovin](https://github.com/NIVOSH379), [Eesha](https://github.com/eeshashetty)
 
 <a href="https://github.com/ACM-VIT/SparkAR-Creators/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/SparkAR-Creators" />
