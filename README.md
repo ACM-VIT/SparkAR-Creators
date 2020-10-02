@@ -6,8 +6,32 @@
 <h2 align="center"> ACM Learn2Augment Mini-Hack Gravitas'20 </h2>
 
 <p align="center"> 
-Registered participants from Learn2Augment will make PRs with their project submissions. All the PRs from the registered participants would be merged. See guidelines below to make your Pull Request. **Visit the 'L2A Mini-Hack' directory to know more about the hackathon submission**  
+Registered participants from Learn2Augment will make PRs with their project submissions. All the PRs from the registered participants would be merged. See guidelines below to make your Pull Request.   
 </p>
+**Visit the 'L2A Mini-Hack' directory to know more about the hackathon submission**
+
+<h2 align="center"> SparkAR Open Repository </h2>
+
+<p align="center"> 
+All other directories are open to contributions from all SparkAR creators. You are free to download assets, scripts, patches for your own projects and contribute your own proects and resources for the community. Here are necessary guidelines: </p>
+  
+**Spark AR Studio supports various file formats, depending on the type of object or asset you're importing.**
+
+**2D Assets**
+1. PNG  2. JPEG  3. SVG
+
+**3D Models**
+1. FBX 2014/2015 (binary and ASCII versions)   2. gITF 2 (binary and text versions)   3. COLLADA / DAE   4. OBJ   5. DAE
+
+**The following features are supported for 3D models:**
+1. 3D scene.   2. Materials.   3. Textures.   4. Animations targeting a model's position, rotation and scale.
+
+**Audio**
+1. Mono M4A, with a sampling frequency of 44.1kHz
+
+**Fonts**
+1. TrueType/ OpenType
+
 
 <p>
   <a href="https://acmvit.in/" target="_blank">
@@ -82,4 +106,9 @@ git merge
 <a href="https://github.com/eeshashetty">
   <img src="https://avatars3.githubusercontent.com/u/46091397?s=50&u=76dbe2bc98de1034035827e11248a1f4999cbce7&v=4">
 </a> --> 
+<a href="https://github.com/ACM-VIT/SparkAR-Creators/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ACM-VIT/SparkAR-Creators" />
+</a>
+&nbsp
+
 **Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
