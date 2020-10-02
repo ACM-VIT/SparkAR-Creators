@@ -73,10 +73,6 @@ All other directories are open to contributions from all SparkAR creators. You a
   * Project maintainer's decision on validity of PR is final.
 
   For additional guidelines, refer to [participation rules](https://hacktoberfest.digitalocean.com/details#rules)
-
----
-
--_domain specific guidelines here_-
   
 ---
 ## Overview
