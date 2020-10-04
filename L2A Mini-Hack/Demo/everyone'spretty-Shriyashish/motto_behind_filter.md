@@ -11,6 +11,12 @@ The mirror simply blinks and shows that person's face. So don't let anyone tell 
 
 
 I hope my motto behind the filter makes someone feel good about themselves. 
+
+
 That's all from my side.
+
+
 Thank you!
+
+
 Happy Augmenting. :D
