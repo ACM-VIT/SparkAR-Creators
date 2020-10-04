@@ -6,18 +6,6 @@
 <b>List of Spark AR Creators from Learn2Augment 2020. Open an issue and submit a PR with your demo for the hackathon if you want to be added❤️</b>
 </p>
 <p align="center">
-    <!-- mainteinance -->
-      <a href="#">
-        <img src="/images/maintained-yes.svg" alt="Mainteinance yes" />
-      </a>
-      <!-- pr-welcome -->
-      <a href="#">
-        <img src="/images/pr-welcome.svg" alt="pr welcome" />
-      </a>
-    <!-- ask us anything -->
-      <a href="#">
-        <img src="/images/ask-me-anything.svg" alt="ask us anything" />
-      </a>
     <!-- Maintenance -->
       <a>
         <img src="https://github.com/ACM-VIT/SparkAR-Creators/blob/master/L2A%20Mini-Hack/readme-assets/maintained-yes.svg" alt="Mainteinance yes" />
