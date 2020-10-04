@@ -28,6 +28,7 @@
 | :---         | :---         |     :---:      |          ---: |     ---:      |
 |1 | Elio Jordan Lopes   | eliojordan.lopes2018@vitstudent.ac.in     | 18BCE2040    | https://www.instagram.com/heliosz.17/    |
 |2 | Shriyashish Mishra   | shriyashish.mishra2019@vitstudent.ac.in     | 19BIT0214    | https://www.instagram.com/shriyashish_mishra/?hl=en    |
+|3 | Shubham Shankaram   | shubham.shankaram2019@vitstudent.ac.in    | 19BCT0092    | https://www.instagram.com/shubhamji88/    |
 
 
 
