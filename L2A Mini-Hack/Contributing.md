@@ -8,6 +8,7 @@
 <p align="center">
     <!-- mainteinance -->
       <a href="#">
+
         <img src="/images/maintained-yes.svg" alt="Mainteinance yes" />
       </a>
       <!-- pr-welcome -->
@@ -17,6 +18,16 @@
     <!-- ask us anything -->
       <a href="#">
         <img src="/images/ask-me-anything.svg" alt="ask us anything" />
+
+        <img src="https://github.com/ACM-VIT/SparkAR-Creators/blob/master/L2A%20Mini-Hack/readme-assets/maintained-yes.svg" alt="Mainteinance yes" />
+      </a>
+      <!-- pr-welcome -->
+      <a href="#">
+        <img src="https://github.com/ACM-VIT/SparkAR-Creators/blob/master/L2A%20Mini-Hack/readme-assets/pr-welcome.svg" alt="pr welcome" />
+      </a>
+    <!-- ask us anything -->
+      <a href="#">
+        <img src="https://github.com/ACM-VIT/SparkAR-Creators/blob/master/L2A%20Mini-Hack/readme-assets/ask-me-anything.svg" alt="ask us anything" />
       </a>
 </p>
 
@@ -27,4 +38,7 @@
 | S.No | Full name | Registered emailID | Registration Number(Internal participants) | Instagram Profile |
 | :---         | :---         |     :---:      |          ---: |     ---:      |
 |1 | Elio Jordan Lopes   | eliojordan.lopes2018@vitstudent.ac.in     | 18BCE2040    | https://www.instagram.com/heliosz.17/    |
+
 | | | | | |
+| | | | | |
+
