@@ -99,8 +99,7 @@ git merge
 **Authors:** 
 [Elio](https://github.com/lopeselio), [Shovin](https://github.com/NIVOSH379), [Eesha](https://github.com/eeshashetty)
 
+**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
 <a href="https://github.com/ACM-VIT/SparkAR-Creators/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/SparkAR-Creators" />
 </a>
-
-**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
