@@ -27,6 +27,7 @@
 | S.No | Full name | Registered emailID | Registration Number(Internal participants) | Instagram Profile |
 | :---         | :---         |     :---:      |          ---: |     ---:      |
 |1 | Elio Jordan Lopes   | eliojordan.lopes2018@vitstudent.ac.in     | 18BCE2040    | https://www.instagram.com/heliosz.17/    |
+|2 | Shriyashish Mishra   | shriyashish.mishra2019@vitstudent.ac.in     | 19BIT0214    | https://www.instagram.com/shriyashish_mishra/?hl=en    |
 
 
 
