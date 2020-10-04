@@ -7,9 +7,9 @@
 5. In your project folder, do not include assets and scripts that have not been used in your effects.
 6. The best three submissions will be published to ACM-VIT's SparkAR Hub
 <br>
-**Make sure your PR title follows the format *#(issue number) L2A Submission - (name)* . **
+Make sure your PR title follows the format `(#issue number) L2A Submission - (name)` . 
 <br>
-###Here is an example depicting the folder and files to be included for your pull request
+### Here is an example depicting the folder and files to be included for your pull request
 
 ![sample](https://github.com/ACM-VIT/SparkAR-Creators/blob/master/L2A%20Mini-Hack/readme-assets/sample.PNG)
 <br><br>
