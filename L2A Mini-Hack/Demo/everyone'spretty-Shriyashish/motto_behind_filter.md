@@ -1,4 +1,4 @@
-# **Everyone's Pretty! **
+# Everyone's Pretty!
 
 
 **This filter is made mainly to remind every person around the globe to remember that beauty comes in all colours and sizes. **
