@@ -14,6 +14,8 @@ Registered participants from Learn2Augment will make PRs with their project subm
 
 <p align="center"> 
 All other directories are open to contributions from all SparkAR creators. You are free to download assets, scripts, patches for your own projects and contribute your own proects and resources for the community. Here are necessary guidelines: </p>
+<p align="center"> 
+Please read the issues and contribute assets, scripts, patches for the projects. Create a new issue if you have something innovative for a new project. Make sure all your assets are compressed to the least size possible </p>
   
 **Spark AR Studio supports various file formats, depending on the type of object or asset you're importing.**
 
