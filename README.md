@@ -79,7 +79,11 @@ Please read the issues and contribute assets, scripts, patches for the projects.
 ---
 ## Overview
 
-The overview starts here. Random text about the project, motive, how, what, why etc.
+1. For L2A, download SparkAR for Windows and MacOS (here)[https://sparkar.facebook.com/ar-studio/download/]
+2. Refer to the documentation to explore more about (SparkAR)[https://sparkar.facebook.com/ar-studio/learn/]
+3. Visit the SparkAR (Blog)[https://sparkar.facebook.com/blog/]
+4. Manage your effects through the (SparkAR_HUB)[https://www.facebook.com/sparkarhub/]
+5. Visit the community (forum)[https://sparkar.facebook.com/forum/]
 
 ---
 ## Usage
@@ -97,8 +101,7 @@ git merge
 **Authors:** 
 [Elio](https://github.com/lopeselio), [Shovin](https://github.com/NIVOSH379), [Eesha](https://github.com/eeshashetty)
 
+**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->
 <a href="https://github.com/ACM-VIT/SparkAR-Creators/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ACM-VIT/SparkAR-Creators" />
 </a>
-
-**Contributors:** <!-- Generate contributors list using this link - https://contributors-img.web.app/preview -->

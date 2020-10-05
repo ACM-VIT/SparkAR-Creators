@@ -6,17 +6,17 @@
 <b>List of Spark AR Creators from Learn2Augment 2020. Open an issue and submit a PR with your demo for the hackathon if you want to be added❤️</b>
 </p>
 <p align="center">
-    <!-- mainteinance -->
-      <a href="#">
-        <img src="/images/maintained-yes.svg" alt="Mainteinance yes" />
+    <!-- Maintenance -->
+      <a>
+        <img src="https://github.com/ACM-VIT/SparkAR-Creators/blob/master/L2A%20Mini-Hack/readme-assets/maintained-yes.svg" alt="Mainteinance yes" />
       </a>
       <!-- pr-welcome -->
       <a href="#">
-        <img src="/images/pr-welcome.svg" alt="pr welcome" />
+        <img src="https://github.com/ACM-VIT/SparkAR-Creators/blob/master/L2A%20Mini-Hack/readme-assets/pr-welcome.svg" alt="pr welcome" />
       </a>
     <!-- ask us anything -->
       <a href="#">
-        <img src="/images/ask-me-anything.svg" alt="ask us anything" />
+        <img src="https://github.com/ACM-VIT/SparkAR-Creators/blob/master/L2A%20Mini-Hack/readme-assets/ask-me-anything.svg" alt="ask us anything" />
       </a>
 </p>
 
@@ -27,4 +27,8 @@
 | S.No | Full name | Registered emailID | Registration Number(Internal participants) | Instagram Profile |
 | :---         | :---         |     :---:      |          ---: |     ---:      |
 |1 | Elio Jordan Lopes   | eliojordan.lopes2018@vitstudent.ac.in     | 18BCE2040    | https://www.instagram.com/heliosz.17/    |
-| | | | | |
+|2 | Shriyashish Mishra   | shriyashish.mishra2019@vitstudent.ac.in     | 19BIT0214    | https://www.instagram.com/shriyashish_mishra/?hl=en    |
+|3 | Shubham Shankaram   | shubham.shankaram2019@vitstudent.ac.in    | 19BCT0092    | https://www.instagram.com/shubhamji88/    |
+
+
+
