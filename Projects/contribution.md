@@ -1,4 +1,4 @@
-# Projects Involving Native-UI-Picker
+# Projects
 
 1. Discuss your ideas with the project maintainers and provide your idea description in the issues
 2. Please create a pull request with your projects only if your proposal is approved.
