@@ -2,4 +2,4 @@
 
 The effect involves a rigged human figure in a dancing animation. The audio asset includes ancient arabic music and the scene involves a River Bank. All the assets have been compressed as addressed in the issue #7
 
-The audio plays in a loopback.
+This effect has been cont
