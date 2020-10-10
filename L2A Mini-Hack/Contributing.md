@@ -27,4 +27,5 @@
 | S.No | Full name | Registered emailID | Registration Number(Internal participants) | Instagram Profile |
 | :---         | :---         |     :---:      |          ---: |     ---:      |
 |1 | Elio Jordan Lopes   | eliojordan.lopes2018@vitstudent.ac.in     | 18BCE2040    | https://www.instagram.com/heliosz.17/    |
+|2 | Shubham Shankaram   | shubham.shankaram2019@vitstudent.ac.in     | 19BCT0092   | https://www.instagram.com/shubhamji88/    |
 | | | | | |
