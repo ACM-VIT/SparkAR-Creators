@@ -27,4 +27,4 @@
 | S.No | Full name | emailID | Instagram Profile |
 | :---         | :---         |     :---:      |          ---: |
 | 1         | Shubham Shankaram         |     shubham.shankaram2019@vitstudent.ac.in     |          https://www.instagram.com/shubhamji88/ |
-| | | | |
+|2 | Cry07 |  | |
