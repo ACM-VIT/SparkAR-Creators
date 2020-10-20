@@ -28,3 +28,6 @@
 | :---         | :---         |     :---:      |          ---: |
 | 1         | Shubham Shankaram         |     shubham.shankaram2019@vitstudent.ac.in     |          https://www.instagram.com/shubhamji88/ |
 |2 | Cry07 | raizeljoana@gmail.com  | https://www.instagram.com/raizel.222/ |
+|3 | Elio Jordan Lopes   | eliojordan.lopes2018@vitstudent.ac.in     | https://www.instagram.com/heliosz.17/    |
+|4 | Shriyashish Mishra   | shriyashish.mishra2019@vitstudent.ac.in     | https://www.instagram.com/shriyashish_mishra/?hl=en    |
+
