@@ -31,4 +31,5 @@
 |3 | Elio Jordan Lopes   | eliojordan.lopes2018@vitstudent.ac.in     | https://www.instagram.com/heliosz.17/    |
 |4 | Shriyashish Mishra   | shriyashish.mishra2019@vitstudent.ac.in     | https://www.instagram.com/shriyashish_mishra/?hl=en    |
 |5 | Manu Rajput   | manurajput2911@gmail.com     | https://instagram.com/manurajput__?igshid=1f5z6xulqkeb3    |
+|6 | Apoorva Pise   | apoorvapise@gmail.com     | https://www.instagram.com/apoorva_pise/    |
 
